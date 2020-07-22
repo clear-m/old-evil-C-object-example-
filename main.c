@@ -14,8 +14,7 @@ struct object {
 } myobject_default = { .open_ptr = open };
 
 typedef struct object my_object;
-
-#define 
+ 
 
 int main()
 {
